@@ -1,10 +1,7 @@
-============================================================================================================
 2048 Game
 ============================================================================================================
-============================================================================================================
-
-Developer - JAGANI VATSAL
-			contact - jaganivatsal@gmail
+Developer - VATSAL JAGANI
+Contact - vatsaljagani85@gmail.com
 ============================================================================================================
 
 ------------------------------------------------------------------
@@ -14,7 +11,7 @@ This is a logical game.
 You can found this game on Android's and Iphone's AppStore too.
 All the things regarding this game including instruction you can found on internet.
 
- FOR ANY QUERY contact : jaganivatsal@gmail.com 
+ FOR ANY QUERY contact : vatsaljagani85@gmail.com 
 	
 ------------------------------------------------------------------
 
