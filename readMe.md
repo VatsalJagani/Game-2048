@@ -8,7 +8,6 @@ This is a logical game.
 You can found this game on Android's and Iphone's AppStore too.
 All the things regarding this game including instruction you can found on internet.
 
- FOR ANY QUERY contact : vatsaljagani85@gmail.com 
 	
 ## Programmer Perspective
 Java code and Android code is already available on internet for the same game.
